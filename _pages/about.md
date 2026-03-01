@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>NIT Meghalaya</a>. Meghalaya, India. 
+subtitle: <a href='https://www.nitm.ac.in/department/computer-science-engineering/phd-3/pushpak-das'>NIT Meghalaya</a>, India. 
 
 profile:
   align: right
