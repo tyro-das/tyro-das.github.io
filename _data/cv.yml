@@ -50,8 +50,8 @@ cv:
       - company: NOKIA
         position: Research Intern
         location: Bangalore, India    
-        start_date: January 2024
-        end_date: July 2024
+        start_date: 2024-01
+        end_date: 2024-07        
         summary: Investigated energy-efficient architectural strategies for 3GPP-compliant vehicular communication systems, analysing optimization opportunities across the RAN, transport, and core network domains.
         highlights:
           - Explored how network intelligence functions such as NWDAF-assisted analytics and policy-driven orchestration can support adaptive resource allocation for V2X workloads under mobility-driven traffic dynamics.
